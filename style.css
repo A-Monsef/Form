@@ -4,7 +4,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background: url("/image/wave.svg") no-repeat;
+    background: url("image/wave.svg") no-repeat;
     background-size: cover;
 }
 h1{
